@@ -1,0 +1,12 @@
+{
+  "name": "@modules/registration-success",
+  "version": "1.0.1",
+  "description": "Screen for successful account registration",
+  "private": true,
+  "main": "index.js",
+  "author": "Kingori",
+  "license": "ISC",
+  "dependencies": {
+    "react-native-render-html": "^5.1.0"
+  }
+}

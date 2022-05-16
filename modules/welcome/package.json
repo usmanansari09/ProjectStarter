@@ -1,0 +1,12 @@
+{
+  "name": "@modules/welcome",
+  "version": "1.0.0",
+  "description": "A simple login and signup screen with email and password.",
+  "private": true,
+  "main": "index.js",
+  "x-dependencies": {},
+  "author": "Kingori",
+  "license": "ISC",
+  "dependencies": {
+  }
+}

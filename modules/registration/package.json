@@ -1,0 +1,14 @@
+{
+  "name": "@modules/registration",
+  "version": "1.0.0",
+  "description": "A simple signup screen",
+  "private": true,
+  "main": "index.js",
+  "x-dependencies": {},
+  "author": "Kingori",
+  "license": "ISC",
+  "dependencies": {  
+    "react": "17.0.1",
+    "react-native": "0.64.0"
+  }
+}

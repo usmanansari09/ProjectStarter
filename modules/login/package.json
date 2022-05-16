@@ -1,0 +1,15 @@
+{
+  "name": "@modules/login",
+  "version": "1.0.0",
+  "description": "A simple login screen with email and password.",
+  "private": true,
+  "main": "index.js",
+  "x-dependencies": {},
+  "license": "ISC",
+  "author": "Kingori",
+  "dependencies": {
+    "react": "17.0.1",
+    "react-native": "0.64.0",
+    "@react-navigation/native": "^5.9.2"
+  }
+}

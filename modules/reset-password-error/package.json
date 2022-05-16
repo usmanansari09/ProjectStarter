@@ -1,0 +1,12 @@
+{
+  "name": "@modules/reset-password-error",
+  "version": "1.0.1",
+  "description": "Screen for displaying error on password reset failure",
+  "private": true,
+  "main": "index.js",
+  "author": "Kingori",
+  "license": "ISC",
+  "dependencies": {
+    "react-native-render-html": "^5.1.0"
+  }
+}

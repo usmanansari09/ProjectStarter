@@ -1,0 +1,12 @@
+{
+  "name": "@modules/email-verification-success",
+  "version": "1.0.1",
+  "description": "Screen for successful email verification",
+  "private": true,
+  "main": "index.js",
+  "author": "Kingori",
+  "license": "ISC",
+  "dependencies": {
+    "react-native-render-html": "^5.1.0"
+  }
+}
