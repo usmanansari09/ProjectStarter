@@ -27,7 +27,7 @@
     "@modules/user-profile": "file:./modules/user-profile/",
     "@react-native-async-storage/async-storage": "^1.15.4",
     "@react-native-community/checkbox": "^0.5.9",
-    "@react-native-community/datetimepicker": "^5.1.0",
+    "@react-native-community/datetimepicker": "^6.3.0",
     "@react-native-community/masked-view": "^0.1.10",
     "@react-native-community/netinfo": "^7.1.7",
     "@react-navigation/material-bottom-tabs": "^5.3.15",
